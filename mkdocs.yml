@@ -1,0 +1,50 @@
+﻿site_name: EdgeIO Docs
+site_description: Official documentation for EdgeIO controller products
+site_url: https://beilai-technology.github.io/EdgeIO/
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: zh
+          default: true
+          name: 中文
+          build: true
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            首页: Home
+            EdgeIO说明书: EdgeIO Manuals
+            BA190Pro 说明书: BA190Pro Manual
+            BL190 说明书: BL190 Manual
+            BL191 说明书: BL191 Manual
+            BL192 说明书: BL192 Manual
+            BL192Pro 说明书: BL192Pro Manual
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: zh
+  logo: assets/图片材料/钡铼技术英文logo.png
+  favicon: assets/图片材料/钡铼技术英文logo.png
+  palette:
+    - scheme: default
+      primary: light-blue
+      accent: blue
+
+nav:
+  - 首页: index.md
+  - EdgeIO说明书:
+      - BA190Pro 说明书: EdgeIO说明书/钡铼技术 EdgeIO控制器系列BA190Pro_说明书_V1.1.md
+      - BL190 说明书: EdgeIO说明书/钡铼技术EdgeIO控制器系列BL190_说明书_V1.1.md
+      - BL191 说明书: EdgeIO说明书/钡铼技术 EdgeIO控制器系列BL191_说明书_V1.1.md
+      - BL192 说明书: EdgeIO说明书/钡铼技术 EdgeIO控制器系列BL192_说明书_V1.1.md
+      - BL192Pro 说明书: EdgeIO说明书/钡铼技术 EdgeIO控制器系列BL192Pro_说明书_V1.1.md
+
+extra_css:
+  - assets/custom.css
