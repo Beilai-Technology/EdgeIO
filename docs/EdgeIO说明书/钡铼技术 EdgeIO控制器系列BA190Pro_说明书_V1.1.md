@@ -12,13 +12,7 @@ BA190Pro智慧楼宇边缘I/O控制器
 BA190Pro
 说明书
 
-以太网
-
-上位机系统或云平台
-
 ![image](钡铼技术 EdgeIO控制器系列BA190Pro_说明书_V1.1-images/image3.jpeg)
-
-![image](钡铼技术 EdgeIO控制器系列BA190Pro_说明书_V1.1-images/image4.png)
 
 版权声明
 
