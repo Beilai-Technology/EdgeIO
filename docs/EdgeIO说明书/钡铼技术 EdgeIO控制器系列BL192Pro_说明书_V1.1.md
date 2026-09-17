@@ -12,15 +12,7 @@ BL192Pro工业物联网边缘I/O控制器
 BL192Pro
 说明书
 
-自定义MQTT云、阿里云、华为云、亚马逊云、Thingsboard云等MQTT云平台或服务器
-
-以太网
-
-工作站
-
 ![image](钡铼技术 EdgeIO控制器系列BL192Pro_说明书_V1.1-images/image3.jpeg)
-
-![image](钡铼技术 EdgeIO控制器系列BL192Pro_说明书_V1.1-images/image4.png)
 
 版权声明
 
