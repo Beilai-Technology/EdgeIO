@@ -9,18 +9,9 @@
 EdgeIO控制器系列
 BL190 Modbus协议边缘I/O控制器
 
-BL190
-说明书
-
-Modbus TCP 客户端
-
-以太网
-
-工作站
+BL190说明书
 
 ![image](钡铼技术EdgeIO控制器系列BL190_说明书_V1.1-images/image3.jpeg)
-
-![image](钡铼技术EdgeIO控制器系列BL190_说明书_V1.1-images/image4.png)
 
 版权声明
 
