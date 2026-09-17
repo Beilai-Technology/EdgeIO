@@ -12,15 +12,7 @@ BL191 OPC UA协议边缘I/O控制器
 BL191
 说明书
 
-OPC UA 客户端
-
-以太网
-
-工作站
-
 ![image](钡铼技术 EdgeIO控制器系列BL191_说明书_V1.1-images/image3.jpeg)
-
-![image](钡铼技术 EdgeIO控制器系列BL191_说明书_V1.1-images/image4.png)
 
 版权声明
 
